@@ -1,0 +1,18 @@
+{"users": {
+    "1": {
+        "last_name": "admin", 
+        "first_name": "admin", 
+        "balance": 0, 
+        "credit": 0, 
+        "id": 1
+        }
+    }, 
+
+    "counts": {
+        "count_action_users": 1
+    }, 
+    
+    "transaction": {
+        "1": []
+    }
+}
